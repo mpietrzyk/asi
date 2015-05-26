@@ -122,4 +122,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [ShakeAndTeam](https://github.com/sebcza/shake-and-eat). [Shake and eat](http://sebczait.cloudapp.net:3000).
 1. [BonaFide](https://github.com/kkrampa/asi-egzamin). [Kontakt](https://salty-brook-9086.herokuapp.com). GitHub. Page not found.
 1. [CarManagement](https://github.com/bskorka/my_project). [Car Control](https://sleepy-crag-4339.herokuapp.com/).
-2. [SzpakŁadosz](https://bitbucket.org/piotrszpak/sklepsamochodowy)[Car Shop](https://thawing-cliffs-9933.herokuapp.com/)
+1. [SzpakŁadosz](https://bitbucket.org/piotrszpak/sklepsamochodowy)[Car Shop](https://thawing-cliffs-9933.herokuapp.com/)
+1. [Sielachowicz](https://bitbucket.org/psielachowicz/asi2015). [NastrojowiArtysci](https://nastrojowo.herokuapp.com/).
+1. [ShareGraphicsTeam](https://bitbucket.org/tsmogor/share-art-app). [Share-Your-Art](http://quiet-reef-3839.herokuapp.com/graphics).
+1. [Miel](https://github.com/Whetold/ASIegz.git). [ExtendedGamingShop](http://my-asiprojekt.herokuapp.com/).
