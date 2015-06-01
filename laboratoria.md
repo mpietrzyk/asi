@@ -1,4 +1,4 @@
-## Zaliczenie
+## Zaliczenie & Egzamin
 
 ----
 
@@ -127,3 +127,4 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [ShareGraphicsTeam](https://bitbucket.org/tsmogor/share-art-app). [Share-Your-Art](http://quiet-reef-3839.herokuapp.com/graphics).
 1. [Miel](https://github.com/Whetold/ASIegz.git). [Extended Gaming Shop](http://my-asiprojekt.herokuapp.com/).
 1. [RailsEmpire](https://github.com/Undauted/EmpireSell.git). [EmpireSell](https://empire-sell.herokuapp.com/).
+1. [Miel](https://github.com/Whetold/ASIegz.git). [ExtendedGamingShop](http://my-asiprojekt.herokuapp.com/).
