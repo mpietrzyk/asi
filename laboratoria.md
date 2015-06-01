@@ -57,7 +57,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. [Smogór Tomasz](https://ror-apka-blog.herokuapp.com/). [Blog](https://bitbucket.org/tsmogor/rorblogapp).
 1. [Soliwodzki Mateusz](https://lit-crag-2911.herokuapp.com/). [RateGame](https://bitbucket.org/adelanteDev/railsonruby_asi/src).
 1. [Strzała Marek](https://asi215563.herokuapp.com/). [Crower](https://github.com/MarekAG/asi215563).
-1. [Szpak Piotr](https://sleepy-meadow-7480.herokuapp.com/). [Sample](https://bitbucket.org/piotrszpak/sample_app/src). Access denied.
+1. [Szpak Piotr](https://pacific-oasis-7630.herokuapp.com/). [Manga](https://bitbucket.org/piotrszpak/mang).
 1. [Turczuk Beata](https://fathomless-dusk-9010.herokuapp.com). [rubyonrails-project](https://github.com/bturczuk/rubyonrails-project)
 1. [Willma Adam](https://polar-taiga-3811.herokuapp.com/). [MyFavouriteBooks](https://bitbucket.org/AdamWillma/book-crud).
 1. [Wyszyński Przemysław](https://musicstorepw.herokuapp.com). [MusicStore](https://github.com/pwyszynski/RailsMusicStore).
