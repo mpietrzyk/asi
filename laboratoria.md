@@ -129,3 +129,4 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [RailsEmpire](https://github.com/Undauted/EmpireSell.git). [EmpireSell](https://empire-sell.herokuapp.com/).
 1. [Miel](https://github.com/Whetold/ASIegz.git). [ExtendedGamingShop](http://my-asiprojekt.herokuapp.com/).
 19. [RedDragon](https://github.com/dgrzesiak/Ruby-on-Rails-egzamin). [RedDragonShop](https://enigmatic-meadow-6709.herokuapp.com/).
+[BOMADA](https://github.com/grabarzstg/asi-egzamin). [ToperzaKacikLiteracki](http://tkl.herokuapp.com/).
