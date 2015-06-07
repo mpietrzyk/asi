@@ -78,7 +78,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. [Grabowski Marek](http://salty-ridge-2936.herokuapp.com/). [Kacik literacki](https://github.com/grabarzstg/asi)
 1. Hałasa Adam
 1. Hołasz Adam
-1. Jendryczka Maciej
+1. [Jendryczka Maciej](http://46.101.191.180/). [LectuRuby](https://github.com/CichyEll/LectuRuby)
 1. Krzyżanowski Piotr
 1. Ładosz Milena [musicstore](https://bitbucket.org/mladosz/musicstore). [Musicstore](http://murmuring-spire-5332.herokuapp.com)
 1. Pietrzyk Michał
