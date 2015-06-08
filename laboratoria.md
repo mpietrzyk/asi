@@ -81,7 +81,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. [Jendryczka Maciej](http://46.101.191.180/). [LectuRuby](https://github.com/CichyEll/LectuRuby)
 1. Krzyżanowski Piotr
 1. Ładosz Milena [musicstore](https://bitbucket.org/mladosz/musicstore). [Musicstore](http://murmuring-spire-5332.herokuapp.com)
-1. Pietrzyk Michał
+1. [Pietrzyk Michał](https://guarded-forest-3606.herokuapp.com/).[TanksReviewApp](https://bitbucket.org/Mikoziq/tankreviews)
 1. [Rosiak Łukasz](https://asi-aplikacja.herokuapp.com/). [asi-aplikacja](https://bitbucket.org/Lrosiak/asi-ruby-application)
 1. Sielachowicz Paweł
 1. [Stefański Borys](https://cryptic-river-3851.herokuapp.com/). [rubyApp](https://github.com/boriasz/ruby)
