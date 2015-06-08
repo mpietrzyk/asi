@@ -81,7 +81,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. [Jendryczka Maciej](http://46.101.191.180/). [LectuRuby](https://github.com/CichyEll/LectuRuby)
 1. Krzyżanowski Piotr
 1. Ładosz Milena [musicstore](https://bitbucket.org/mladosz/musicstore). [Musicstore](http://murmuring-spire-5332.herokuapp.com)
-1. [Pietrzyk Michał](https://thawing-tundra-6585.herokuapp.com/tanks).[TanksReviewApp](https://bitbucket.org/Mikoziq/tankreviews)
+1. [Pietrzyk Michał](https://thawing-tundra-6585.herokuapp.com/).[TanksReviewApp](https://bitbucket.org/Mikoziq/tankreviews)
 1. [Rosiak Łukasz](https://asi-aplikacja.herokuapp.com/). [asi-aplikacja](https://bitbucket.org/Lrosiak/asi-ruby-application)
 1. Sielachowicz Paweł
 1. [Stefański Borys](https://cryptic-river-3851.herokuapp.com/). [rubyApp](https://github.com/boriasz/ruby)
@@ -130,3 +130,4 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [Miel](https://github.com/Whetold/ASIegz.git). [ExtendedGamingShop](http://my-asiprojekt.herokuapp.com/).
 19. [RedDragon](https://github.com/dgrzesiak/Ruby-on-Rails-egzamin). [RedDragonShop](https://enigmatic-meadow-6709.herokuapp.com/).
 [BOMADA](https://github.com/grabarzstg/asi-egzamin). [ToperzaKacikLiteracki](http://tkl.herokuapp.com/).
+[Pietrzykov](https://bitbucket.org/Mikoziq/tankstore).[TanksApp](https://warm-sands-3702.herokuapp.com/).
